@@ -1,0 +1,17 @@
+{
+  "name": "Aram",
+  "version": "1.0.0",
+  "description": "ARAM Leaderboards made specially for the cute SKR >⯋<",
+  "main": "/index",
+  "author": "xBiei",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^12.3.1",
+    "mongoose": "^5.10.5",
+    "timeago.js": "^4.0.2"
+  },
+  "devDependencies": {
+    "eslint-config-tesseract": "^0.0.3"
+  }
+}
